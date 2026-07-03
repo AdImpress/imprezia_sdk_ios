@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ImpreziaSDK",
-            url: "https://github.com/adimpress/imprezia_sdk_ios/releases/download/v0.5.5/ImpreziaSDK.xcframework.zip",
-            checksum: "6c2bdde80684a3e5137e407946eeb2b5a1d7188077409910b54f4f82b6ab4f49"
+            url: "https://github.com/adimpress/imprezia_sdk_ios/releases/download/v0.5.6/ImpreziaSDK.xcframework.zip",
+            checksum: "97da462a8bf307d9a04d7969ce4dd15552ed29e364f53d4ebb60af4113bdfbac"
         )
     ]
 )
